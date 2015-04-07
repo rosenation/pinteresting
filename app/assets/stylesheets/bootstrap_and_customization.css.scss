@@ -1,5 +1,15 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600);
+
 $body-bg: #bdc3c7;
 $navbar-default-bg: #1abc9c;
 $navbar-default-link-color: white;
 
 @import 'bootstrap';
+
+.center{
+	text-align: center;
+}
+
+.navbar-brand {
+	font-weight: bold;
+}
